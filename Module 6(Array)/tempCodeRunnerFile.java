@@ -20,7 +20,7 @@ public class sum {
 
 
         } 
-        System.out.println("sum of the elements:" + sum);
+        System.out.println("sum of the elements:-" + sum);
     }
     
 }
